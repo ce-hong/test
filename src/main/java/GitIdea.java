@@ -4,5 +4,6 @@ public class GitIdea {
         System.out.println("Git_Integrate_Idea");
         System.out.println("更新2");
         System.out.println("更新3");
+        System.out.println("devBranchCreated");
     }
 }
