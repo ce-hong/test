@@ -6,5 +6,6 @@ public class GitIdea {
         System.out.println("更新3");
         System.out.println("devBranchCreated");
         System.out.println("editByDev");
+        System.out.println("githubUpdate");
     }
 }
